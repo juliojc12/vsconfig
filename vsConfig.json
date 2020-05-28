@@ -1,0 +1,17 @@
+{
+    "dart.flutterSdkPath": "C:\\flutter",
+    "editor.fontLigatures":  true,
+    "editor.fontWeight": "500",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 24,
+
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html",
+    },
+    "git.autofetch": true,
+
+}
